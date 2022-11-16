@@ -1,0 +1,12 @@
+{
+  "name": "TTW standalone",
+  "icons": [
+    {
+      "src": "/rubus_phoenicolasius.svg",
+      "sizes": "144x144",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone"
+}

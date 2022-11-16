@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+body {
+  background-color: #efe;
+  font-size: x-large;
+}
+
+.central {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@media (display-mode: fullscreen) {
+  #fullscreen {
+    background-color: #7ff;
+    padding: 30px;
+  }
+  #fullscreen::after {
+    content: 'fullscreen';
+  }
+}
+
+@media (display-mode: standalone) {
+  #standalone {
+    background-color: #7f7;
+    padding: 30px;
+  }
+  #standalone::after {
+    content: 'standalone';
+  }
+}
+
+@media (display-mode: minimal-ui) {
+  #minimal-ui {
+    background-color: #ff7;
+    padding: 30px;
+  }
+  #minimal-ui::after {
+    content: 'minimal-ui';
+  }
+}
+
+@media (display-mode: browser) {
+  #browser {
+    background-color: #f7f;
+    padding: 30px;
+  }
+  #browser::after {
+    content: 'browser';
+  }
+}
+
+@media (display-mode: window-controls-overlay) {
+  #window-controls-overlay {
+    background-color: #fc7;
+    padding: 30px;
+  }
+  #window-controls-overlay::after {
+    content: 'window-controls-overlay';
+  }
+}
+
+@media (display-mode: tabbed) {
+  #tabbed {
+    background-color: #e8c;
+    padding: 30px;
+  }
+  #tabbed::after {
+    content: 'tabbed';
+  }
+}
+
+.titlebar {
+  position: fixed;
+  left: env(titlebar-area-x, 0);
+  top: env(titlebar-area-y, 0);
+  width: env(titlebar-area-width, 0);
+  height: env(titlebar-area-height, 0);
+  app-region: drag;
+  background: linear-gradient(15deg, blue, green 50%, red);
+}

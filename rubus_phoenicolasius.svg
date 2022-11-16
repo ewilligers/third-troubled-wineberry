@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144px" height="144px">
+  <style>
+    rect {
+      fill: green;
+    }
+    circle {
+      fill: red;
+    }
+  </style>
+  <rect x="0" y="0" width="144" height="144"></rect>
+  <circle cx="72" cy="40" r="25"></circle>
+  <circle cx="40" cy="104" r="25"></circle>
+  <circle cx="104" cy="104" r="25"></circle>
+</svg>
