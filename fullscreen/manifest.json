@@ -2,7 +2,7 @@
   "name": "TTW fullscreen",
   "icons": [
     {
-      "src": "/rubus_phoenicolasius.svg",
+      "src": "../rubus_phoenicolasius.svg",
       "sizes": "144x144",
       "type": "image/svg+xml"
     }
