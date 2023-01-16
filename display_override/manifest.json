@@ -1,0 +1,24 @@
+{
+  "name": "TTW display_override",
+  "icons": [
+    {
+      "src": "../icons/rubus_phoenicolasius.svg",
+      "sizes": "144x144",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts":[
+    {"name":"Page One","url":"page_1.html","icons":[
+      {"src":"../icons/black-256.webp","type":"image/webp","sizes":"256x256","purpose":"monochrome"}
+    ]},
+    {"name":"Page Two","url":"page_2.html","icons":[
+      {"src":"../icons/yellow-256.webp","type":"image/webp","sizes":"256x256","purpose":"maskable"}
+    ]},
+    {"name":"Page Three","url":"page_3.html","icons":[
+      {"src":"../icons/red-256.webp","type":"image/webp","sizes":"256x256","purpose":"any"}
+    ]}
+  ],
+  "start_url": "index.html",
+  "display_override": ["minimal-ui"],
+  "display": "standalone"
+}
