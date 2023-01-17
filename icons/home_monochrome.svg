@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144px" height="144px">
+  <style>
+    rect {
+      fill: black;
+    }
+    circle {
+      fill: white;
+    }
+  </style>
+  <rect x="0" y="0" width="144" height="144"></rect>
+  <circle cx="72" cy="27" r="3"></circle>
+  <circle cx="64" cy="33" r="3"></circle>
+  <circle cx="80" cy="33" r="3"></circle>
+  <circle cx="56" cy="39" r="3"></circle>
+  <circle cx="88" cy="39" r="3"></circle>
+  <circle cx="48" cy="45" r="3"></circle>
+  <circle cx="96" cy="45" r="3"></circle>
+  <circle cx="40" cy="51" r="3"></circle>
+  <circle cx="104" cy="51" r="3"></circle>
+  <circle cx="32" cy="57" r="3"></circle>
+  <circle cx="112" cy="57" r="3"></circle>
+  <circle cx="24" cy="63" r="3"></circle>
+  <circle cx="120" cy="63" r="3"></circle>
+  <circle cx="16" cy="69" r="3"></circle>
+  <circle cx="128" cy="69" r="3"></circle>
+  <circle cx="72" cy="45" r="3"></circle>
+  <circle cx="64" cy="51" r="3"></circle>
+  <circle cx="80" cy="51" r="3"></circle>
+  <circle cx="56" cy="57" r="3"></circle>
+  <circle cx="88" cy="57" r="3"></circle>
+  <circle cx="48" cy="63" r="3"></circle>
+  <circle cx="96" cy="63" r="3"></circle>
+  <circle cx="40" cy="69" r="3"></circle>
+  <circle cx="104" cy="69" r="3"></circle>
+  <circle cx="32" cy="75" r="3"></circle>
+  <circle cx="112" cy="75" r="3"></circle>
+  <circle cx="32" cy="85" r="3"></circle>
+  <circle cx="112" cy="85" r="3"></circle>
+  <circle cx="32" cy="95" r="3"></circle>
+  <circle cx="112" cy="95" r="3"></circle>
+  <circle cx="32" cy="105" r="3"></circle>
+  <circle cx="112" cy="105" r="3"></circle>
+  <circle cx="32" cy="115" r="3"></circle>
+  <circle cx="112" cy="115" r="3"></circle>
+  <circle cx="42" cy="115" r="3"></circle>
+  <circle cx="52" cy="115" r="3"></circle>
+  <circle cx="62" cy="115" r="3"></circle>
+  <circle cx="72" cy="115" r="3"></circle>
+  <circle cx="82" cy="115" r="3"></circle>
+  <circle cx="92" cy="115" r="3"></circle>
+  <circle cx="102" cy="115" r="3"></circle>
+</svg>

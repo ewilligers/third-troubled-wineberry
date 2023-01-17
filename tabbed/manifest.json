@@ -7,6 +7,16 @@
       "type": "image/svg+xml"
     }
   ],
+  "tab_strip": {
+    "home_tab": {
+      "url": "index.html",
+      "icons": [
+        {"src":"../icons/home_monochrome.svg","type":"image/svg+xml","sizes":"144x144","purpose":"monochrome"},
+        {"src":"../icons/home_color.svg","type":"image/svg+xml","sizes":"144x144","purpose":"any"}
+      ]
+    },
+    "new_tab_button": "absent"
+  },
   "shortcuts":[
     {"name":"Page One","url":"page_1.html","icons":[
       {"src":"../icons/black-256.webp","type":"image/webp","sizes":"256x256","purpose":"monochrome"}
