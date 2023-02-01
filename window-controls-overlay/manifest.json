@@ -2,9 +2,9 @@
   "name": "TTW window-controls-overlay",
   "icons": [
     {
-      "src": "../icons/rubus_phoenicolasius.svg",
+      "src": "../icons/rubus_phoenicolasius.webp",
       "sizes": "144x144",
-      "type": "image/svg+xml"
+      "type": "image/webp"
     }
   ],
   "shortcuts":[
