@@ -12,7 +12,7 @@
       "url": "index.html",
       "icons": [
         {"src":"../icons/home_monochrome.svg","type":"image/svg+xml","sizes":"144x144","purpose":"monochrome"},
-        {"src":"../icons/home_color.svg","type":"image/svg+xml","sizes":"144x144","purpose":"any"}
+        {"src":"../icons/home_color.svg","type":"image/svg+xml","sizes":"144x144","purpose":"maskable"}
       ]
     },
     "new_tab_button": "absent"
